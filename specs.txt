@@ -1,0 +1,31 @@
+Admin Panel
+-----------
+First Page to upload excel file.
+
+Second Page to Edit the data and publish it.
+
+CCR Panel
+---------
+PSC
+Quality
+Quiz
+KPI Summary
+Current Situation
+Graphs & Reports
+Able to send reversions.
+Check Reversions Status
+
+FS Panel
+--------
+PSC
+Quality
+Quiz
+FS PSC
+FS Quality
+FS Quiz
+FS performance Summery
+FS performance Details
+Team Performance
+City Performance
+Check Reversions Notifications and answer them.
+Export the reversions data.
