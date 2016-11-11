@@ -17,6 +17,13 @@ module.exports = function (app, mongoose) {
     app.db.model('angularBeautyData', angularBeautyDataSchema);
 
 
+    var angularSchoolDataSchema = new mongoose.Schema({
+        data: { type: Object, required: true },
+        autherName: { type: String, required: true }
+    });
+
+    app.db.model('angularSchoolData', angularSchoolDataSchema);
+
 
     var pscSchema = new mongoose.Schema({
         AHT: { type: String, required: true, unique: true },
